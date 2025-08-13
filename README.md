@@ -12,7 +12,6 @@ Features
 Usage
 1. Clone the repository.
 2. Open index.html in your browser.
-3. 
 Built With
 HTML5, CSS3
 
