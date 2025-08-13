@@ -8,7 +8,7 @@ Features
 - Fixed navigation bar (always visible on scroll)
 - Fully responsive design
 - Smooth hover effects and animations
-- 
+
 Usage
 1. Clone the repository.
 2. Open index.html in your browser.
